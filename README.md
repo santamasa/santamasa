@@ -4,4 +4,4 @@ I have a proven track record of managing and contributing to various blockchain 
 
 My skills include project management, smart contract development, and making open-source contributions. 
 
-I am passionate about decentralized technologies and committed to advancing the growth and adoption of innovative crypto solutions, aiming to build sustainable and impactful blockchain projects.
+I am passionate about decentralized technologies and committed to advancing the growth and adoption of innovative crypto solutions, aiming to build sustainable and impactful blockchain projects...
